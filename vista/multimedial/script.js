@@ -68,7 +68,7 @@ addButtons.forEach(btn => {
     // PACK VARIABLE
     else if (btn.id === "btnAddMedium") {
       cantidad = parseInt(qtyInput.value);
-      precio = cantidad * 2000;
+      precio = cantidad * 2200;
       nombre = `${cantidad} sobres`;
     }
 
